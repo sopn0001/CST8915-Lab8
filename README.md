@@ -1,4 +1,4 @@
-# CST8915 Lab 7: Full-stack Cloud-native Development: Introduction to Kubernetes Basics
+# CST8915 Lab 8 - Full-stack Cloud-native Development: Deploying and Managing the Algonquin Pet Store (On Steroids)
 
 **Student Name**: IDRIS JOVIAL SOP NWABO
 
